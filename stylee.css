@@ -1,0 +1,21 @@
+header {
+    background-color: hotpink;
+    padding: 2px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 50px;
+    color: azure;
+    background-color: hotpink;
+}
+
+
+body {
+    background-image: url(loana.jpg);
+    background-repeat: repeat;
+    background-size: 250px;
+    font-family: 'Shrikhand', cursive;
+}
+
